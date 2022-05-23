@@ -1,0 +1,8 @@
+.light {
+  color: black;
+  background-color: gainsboro;
+}
+.dark {
+  color: gainsboro;
+  background-color: black;
+}
